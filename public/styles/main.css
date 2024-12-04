@@ -102,3 +102,13 @@ button {
   left: 0;
   bottom: 0;
 }
+.deleteAllBtn {
+  margin: 10px 0;
+  background-color: red;
+}
+button {
+  border-radius: 0.3rem;
+}
+button:hover {
+  scale: 1.02;
+}
